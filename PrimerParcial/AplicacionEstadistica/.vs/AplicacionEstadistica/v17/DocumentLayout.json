@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thebe\\workspace\\AplicacionEstadistica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Thebe\\workspace\\AplicacionEstadistica\\AplicacionEstadistica\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AplicacionEstadistica\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Thebe\\workspace\\AplicacionEstadistica\\aplicacionestadistica\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aplicacionestadistica\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Thebe\\workspace\\AplicacionEstadistica\\AplicacionEstadistica\\Pages\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AplicacionEstadistica\\Pages\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Thebe\\workspace\\AplicacionEstadistica\\aplicacionestadistica\\app_data\\archivo.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aplicacionestadistica\\app_data\\archivo.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thebe\\workspace\\AplicacionEstadistica\\AplicacionEstadistica\\Program.cs",
+              "RelativeDocumentMoniker": "AplicacionEstadistica\\Program.cs",
+              "ToolTip": "C:\\Users\\Thebe\\workspace\\AplicacionEstadistica\\AplicacionEstadistica\\Program.cs",
+              "RelativeToolTip": "AplicacionEstadistica\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T05:23:04.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Thebe\\workspace\\AplicacionEstadistica\\AplicacionEstadistica\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "AplicacionEstadistica\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Thebe\\workspace\\AplicacionEstadistica\\AplicacionEstadistica\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "AplicacionEstadistica\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T05:10:46.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Thebe\\workspace\\AplicacionEstadistica\\AplicacionEstadistica\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "AplicacionEstadistica\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Thebe\\workspace\\AplicacionEstadistica\\AplicacionEstadistica\\Pages\\Index.cshtml",
+              "RelativeToolTip": "AplicacionEstadistica\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T00:55:49.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "archivo.xml",
+              "DocumentMoniker": "C:\\Users\\Thebe\\workspace\\AplicacionEstadistica\\AplicacionEstadistica\\App_Data\\archivo.xml",
+              "RelativeDocumentMoniker": "AplicacionEstadistica\\App_Data\\archivo.xml",
+              "ToolTip": "C:\\Users\\Thebe\\workspace\\AplicacionEstadistica\\AplicacionEstadistica\\App_Data\\archivo.xml",
+              "RelativeToolTip": "AplicacionEstadistica\\App_Data\\archivo.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-21T00:54:42.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

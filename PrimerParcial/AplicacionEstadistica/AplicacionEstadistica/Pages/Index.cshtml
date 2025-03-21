@@ -1,0 +1,156 @@
+﻿@page
+@model AplicacionEstadistica.Pages.IndexModel
+@using AplicacionEstadistica.Pages
+@using System.Data
+
+<h2>Estadísticas de Alumnos</h2>
+
+<!-- Mensaje de error, si lo hay -->
+@if (ViewData["Error"] != null)
+{
+    <div class="alert alert-danger">
+        @ViewData["Error"]
+    </div>
+}
+
+<!-- Tabla de Alumnos -->
+<table id="alumnosTable" class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Apellidos</th>
+            <th>Parcial 1</th>
+            <th>Parcial 2</th>
+            <th>Parcial 3</th>
+            <th>Extra</th>
+            <th>Calificación Final</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var alumno in Model.Alumnos)
+        {
+            <tr>
+                <td>@alumno.Id</td>
+                <td>@alumno.Nombre</td>
+                <td>@alumno.Apellidos</td>
+                <td>@alumno.Parcial1</td>
+                <td>@alumno.Parcial2</td>
+                <td>@alumno.Parcial3</td>
+                <td>@(alumno.Extra == 0 ? "NP" : alumno.Extra.ToString())</td>
+                <td>@alumno.Final</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Sección de Gráficas -->
+<h3>Gráficas de Estadísticas</h3>
+<div>
+    <h4>Aprovechamiento General</h4>
+    <canvas id="aprovechamientoGeneral"></canvas>
+
+    <h4>Rendimiento de los Alumnos</h4>
+    <canvas id="rendimientoAlumnos"></canvas>
+
+    <h4>Moda de Calificaciones</h4>
+    <canvas id="modaCalificacion"></canvas>
+
+    <h4>% de Aprobados y Reprobados</h4>
+    <canvas id="aprobadosReprobados"></canvas>
+</div>
+
+<!-- Agregar DataTable y Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/datatables.net/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/datatables.net-bs4/js/dataTables.bootstrap4.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $('#alumnosTable').DataTable();
+    });
+
+    const alumnos = @Html.Raw(System.Text.Json.JsonSerializer.Serialize(Model.Alumnos));
+    const nombres = alumnos.map(a => `${a.Nombre} ${a.Apellidos}`);
+    const finales = alumnos.map(a => a.Final);
+
+    // Aprovechamiento general
+    const promedioGeneral = finales.reduce((a, b) => a + b, 0) / finales.length;
+    new Chart(document.getElementById("aprovechamientoGeneral"), {
+        type: 'bar',
+        data: {
+            labels: ['Aprovechamiento General'],
+            datasets: [{
+                label: 'Promedio General',
+                data: [promedioGeneral],
+                backgroundColor: 'blue'
+            }]
+        },
+        options: {
+            indexAxis: 'y',
+            scales: {
+                x: { beginAtZero: true, max: 10 }
+            }
+        }
+    });
+
+    // Rendimiento por Alumno
+    const alumnosOrdenados = [...alumnos].sort((a, b) => b.Final - a.Final);
+    const mejores = alumnosOrdenados.slice(0, 5);
+    const peores = alumnosOrdenados.slice(-5);
+    const destacados = [...mejores, ...peores];
+    const nombresDestacados = destacados.map(a => `${a.Nombre} ${a.Apellidos}`);
+    const finalesDestacados = destacados.map(a => a.Final);
+
+    new Chart(document.getElementById("rendimientoAlumnos"), {
+        type: 'bar',
+        data: {
+            labels: nombresDestacados,
+            datasets: [{
+                label: 'Calificación Final (Mejores y peores 5)',
+                data: finalesDestacados,
+                backgroundColor: finalesDestacados.map(f => f >= 6 ? 'green' : 'red')
+            }]
+        },
+        options: {
+            indexAxis: 'y',
+            scales: {
+                x: { beginAtZero: true, max: 10 }
+            }
+        }
+    });
+
+    // Moda de Calificaciones (con dos más frecuentes)
+    const frecuencia = finales.reduce((acc, val) => {
+        acc[val] = (acc[val] || 0) + 1;
+        return acc;
+    }, {});
+    const modas = Object.entries(frecuencia).sort((a, b) => b[1] - a[1]).slice(0, 2);
+
+    new Chart(document.getElementById("modaCalificacion"), {
+        type: 'doughnut',
+        data: {
+            labels: modas.map(m => `Calificación Final ${m[0]}`),
+            datasets: [{
+                label: 'Veces',
+                data: modas.map(m => m[1]),
+                backgroundColor: ['purple', 'orange']
+            }]
+        }
+    });
+
+    // % de Aprobados / Reprobados
+    const aprobados = finales.filter(f => f >= 6).length;
+    const reprobados = finales.length - aprobados;
+    new Chart(document.getElementById("aprobadosReprobados"), {
+        type: 'pie',
+        data: {
+            labels: ['Aprobados', 'Reprobados'],
+            datasets: [{
+                data: [aprobados, reprobados],
+                backgroundColor: ['green', 'red']
+            }]
+        }
+    });
+</script>

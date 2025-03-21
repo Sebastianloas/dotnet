@@ -1,0 +1,1601 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AplicacionEstadistica.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AplicacionEstadistica.5lp5wd6xaf.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5.jar",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5.jar"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\build\\build.xml",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\build\\build.xml"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\demo\\simpleServlet\\WEB-INF\\classes\\org\\jCharts\\demo\\simpleServlet\\BarChartServlet.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\demo\\simpleServlet\\WEB-INF\\classes\\org\\jCharts\\demo\\simpleServlet\\BarChartServlet.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\demo\\simpleServlet\\WEB-INF\\classes\\org\\jCharts\\demo\\simpleServlet\\ChartServlet.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\demo\\simpleServlet\\WEB-INF\\classes\\org\\jCharts\\demo\\simpleServlet\\ChartServlet.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\demo\\simpleServlet\\WEB-INF\\classes\\org\\jCharts\\demo\\simpleServlet\\ComboChartServlet.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\demo\\simpleServlet\\WEB-INF\\classes\\org\\jCharts\\demo\\simpleServlet\\ComboChartServlet.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\demo\\simpleServlet\\WEB-INF\\classes\\org\\jCharts\\demo\\simpleServlet\\HorizontalBarImageMapServlet.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\demo\\simpleServlet\\WEB-INF\\classes\\org\\jCharts\\demo\\simpleServlet\\HorizontalBarImageMapServlet.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\demo\\simpleServlet\\WEB-INF\\classes\\org\\jCharts\\demo\\simpleServlet\\PieChart2DServlet.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\demo\\simpleServlet\\WEB-INF\\classes\\org\\jCharts\\demo\\simpleServlet\\PieChart2DServlet.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\demo\\simpleServlet\\WEB-INF\\classes\\org\\jCharts\\demo\\simpleServlet\\ScatterPlotChartServlet.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\demo\\simpleServlet\\WEB-INF\\classes\\org\\jCharts\\demo\\simpleServlet\\ScatterPlotChartServlet.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\demo\\simpleServlet\\WEB-INF\\web.xml",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\demo\\simpleServlet\\WEB-INF\\web.xml"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\demo\\simpleServlet\\chart.jsp",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\demo\\simpleServlet\\chart.jsp"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\demo\\simpleServlet\\imageMapChart.jsp",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\demo\\simpleServlet\\imageMapChart.jsp"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\demo\\simpleServlet\\index.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\demo\\simpleServlet\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\demo\\simpleServlet\\jChartsTitle.png",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\demo\\simpleServlet\\jChartsTitle.png"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\demo\\swing\\org\\jCharts\\demo\\swing\\SwingDemo.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\demo\\swing\\org\\jCharts\\demo\\swing\\SwingDemo.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\docs\\Apache_license.txt",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\docs\\Apache_license.txt"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\docs\\README.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\docs\\README.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\docs\\jCharts_license.txt",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\docs\\jCharts_license.txt"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\jChartsServletExamples.war",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\jChartsServletExamples.war"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\allclasses-frame.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\allclasses-frame.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\allclasses-noframe.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\allclasses-noframe.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\constant-values.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\constant-values.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\deprecated-list.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\deprecated-list.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\help-doc.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\help-doc.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\index-all.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\index-all.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\index.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\Chart.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\Chart.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\Legend.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\Legend.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\AreaChart.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\AreaChart.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\AxisChart.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\AxisChart.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\BarChart.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\BarChart.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\ClusteredBarChart.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\ClusteredBarChart.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\LineChart.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\LineChart.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\PointChart.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\PointChart.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\ScatterPlotAxisChart.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\ScatterPlotAxisChart.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\ScatterPlotChart.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\ScatterPlotChart.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\StackedAreaChart.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\StackedAreaChart.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\StackedBarChart.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\StackedBarChart.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\StockChart.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\StockChart.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\Axis.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\Axis.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\DataAxis.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\DataAxis.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\LabelAxis.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\LabelAxis.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\XAxis.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\XAxis.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\YAxis.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\YAxis.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\package-frame.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\package-frame.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\package-summary.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\package-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\package-tree.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\package-tree.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\scale\\AutomaticScaleCalculator.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\scale\\AutomaticScaleCalculator.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\scale\\ChartScale.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\scale\\ChartScale.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\scale\\ScaleCalculator.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\scale\\ScaleCalculator.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\scale\\UserDefinedScaleCalculator.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\scale\\UserDefinedScaleCalculator.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\scale\\package-frame.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\scale\\package-frame.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\scale\\package-summary.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\scale\\package-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\scale\\package-tree.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\axis\\scale\\package-tree.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\AxisValueRenderEvent.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\AxisValueRenderEvent.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\PostAxisValueRenderListener.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\PostAxisValueRenderListener.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\PreAxisValueRenderListener.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\PreAxisValueRenderListener.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\package-frame.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\package-frame.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\package-summary.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\package-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\package-tree.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\package-tree.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\renderers\\BackgroundRenderer.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\renderers\\BackgroundRenderer.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\renderers\\ValueLabelPosition.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\renderers\\ValueLabelPosition.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\renderers\\ValueLabelRenderer.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\renderers\\ValueLabelRenderer.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\renderers\\package-frame.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\renderers\\package-frame.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\renderers\\package-summary.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\renderers\\package-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\renderers\\package-tree.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\renderers\\package-tree.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\package-frame.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\package-frame.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\package-summary.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\package-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\package-tree.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\axisChart\\package-tree.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\AxisChartDataSet.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\AxisChartDataSet.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\AxisDataSeries.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\AxisDataSeries.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\ChartDataException.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\ChartDataException.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\DataSeries.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\DataSeries.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\DataSet.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\DataSet.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\PieChartDataSet.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\PieChartDataSet.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\ScatterPlotDataSeries.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\ScatterPlotDataSeries.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\ScatterPlotDataSet.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\ScatterPlotDataSet.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\StockChartDataSet.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\StockChartDataSet.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IAxisChartDataSet.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IAxisChartDataSet.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IAxisDataSeries.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IAxisDataSeries.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IAxisPlotDataSet.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IAxisPlotDataSet.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IData.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IData.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IDataSeries.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IDataSeries.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IDataSet.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IDataSet.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IPieChartDataSet.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IPieChartDataSet.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IScatterPlotDataSeries.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IScatterPlotDataSeries.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IScatterPlotDataSet.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IScatterPlotDataSet.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IStockChartDataSet.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\IStockChartDataSet.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\package-frame.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\package-frame.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\package-summary.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\package-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\package-tree.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\interfaces\\package-tree.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\package-frame.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\package-frame.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\package-summary.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\package-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\package-tree.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\package-tree.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\AxisChartDataProcessor.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\AxisChartDataProcessor.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\NonStackedDataProcessor.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\NonStackedDataProcessor.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\PieChartDataProcessor.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\PieChartDataProcessor.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\ScatterPlotDataProcessor.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\ScatterPlotDataProcessor.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\StackedDataProcessor.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\StackedDataProcessor.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\StockDataProcessor.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\StockDataProcessor.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\TextProcessor.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\TextProcessor.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\package-frame.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\package-frame.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\package-summary.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\package-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\package-tree.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartData\\processors\\package-tree.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartText\\BarValueGroup.BarValue.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartText\\BarValueGroup.BarValue.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartText\\BarValueGroup.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartText\\BarValueGroup.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartText\\NumericTagGroup.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartText\\NumericTagGroup.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartText\\TextTag.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartText\\TextTag.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartText\\TextTagGroup.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartText\\TextTagGroup.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartText\\package-frame.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartText\\package-frame.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartText\\package-summary.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartText\\package-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartText\\package-tree.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\chartText\\package-tree.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\encoders\\BinaryEncoderUtil.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\encoders\\BinaryEncoderUtil.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\encoders\\JPEGEncoder.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\encoders\\JPEGEncoder.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\encoders\\JPEGEncoder13.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\encoders\\JPEGEncoder13.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\encoders\\PNGEncoder.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\encoders\\PNGEncoder.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\encoders\\SVGEncoder.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\encoders\\SVGEncoder.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\encoders\\ServletEncoderHelper.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\encoders\\ServletEncoderHelper.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\encoders\\package-frame.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\encoders\\package-frame.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\encoders\\package-summary.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\encoders\\package-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\encoders\\package-tree.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\encoders\\package-tree.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\AreaShape.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\AreaShape.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\CircleMapArea.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\CircleMapArea.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\ImageMap.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\ImageMap.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\ImageMapArea.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\ImageMapArea.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\ImageMapNotSupportedException.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\ImageMapNotSupportedException.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\PolyMapArea.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\PolyMapArea.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\RectMapArea.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\RectMapArea.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\package-frame.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\package-frame.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\package-summary.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\package-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\package-tree.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\imageMap\\package-tree.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\nonAxisChart\\PieChart2D.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\nonAxisChart\\PieChart2D.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\nonAxisChart\\package-frame.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\nonAxisChart\\package-frame.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\nonAxisChart\\package-summary.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\nonAxisChart\\package-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\nonAxisChart\\package-tree.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\nonAxisChart\\package-tree.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\package-frame.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\package-frame.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\package-summary.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\package-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\package-tree.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\package-tree.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\AreaChartProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\AreaChartProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\AreaProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\AreaProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\AxisChartTypeProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\AxisChartTypeProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\AxisProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\AxisProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\AxisTypeProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\AxisTypeProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\BarChartProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\BarChartProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\ChartProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\ChartProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\ChartTypeProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\ChartTypeProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\ClusteredBarChartProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\ClusteredBarChartProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\DataAxisProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\DataAxisProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\LabelAxisProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\LabelAxisProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\LegendAreaProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\LegendAreaProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\LegendProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\LegendProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\LineChartProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\LineChartProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\PieChart2DProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\PieChart2DProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\PointChartProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\PointChartProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\Properties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\Properties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\PropertyException.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\PropertyException.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\ScatterPlotProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\ScatterPlotProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\StackedAreaChartProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\StackedAreaChartProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\StackedBarChartProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\StackedBarChartProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\StockChartProperties.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\StockChartProperties.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\package-frame.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\package-frame.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\package-summary.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\package-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\package-tree.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\package-tree.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\util\\ChartFont.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\util\\ChartFont.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\util\\ChartItem.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\util\\ChartItem.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\util\\ChartStroke.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\util\\ChartStroke.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\util\\package-frame.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\util\\package-frame.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\util\\package-summary.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\util\\package-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\util\\package-tree.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\properties\\util\\package-tree.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\AreaTestDriver.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\AreaTestDriver.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\AxisChartTestBase.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\AxisChartTestBase.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\BarTestDriver.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\BarTestDriver.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\ChartTestDriver.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\ChartTestDriver.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\ClusteredBarTestDriver.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\ClusteredBarTestDriver.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\ComboTestDriver.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\ComboTestDriver.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\HTMLChartTestable.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\HTMLChartTestable.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\HTMLGenerator.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\HTMLGenerator.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\HTMLTestable.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\HTMLTestable.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\LineTestDriver.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\LineTestDriver.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\PieTestDriver.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\PieTestDriver.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\PointTestDriver.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\PointTestDriver.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\ScatterChartTestBase.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\ScatterChartTestBase.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\ScatterPlotTestDriver.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\ScatterPlotTestDriver.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\StackedAreaTestDriver.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\StackedAreaTestDriver.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\StackedBarTestDriver.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\StackedBarTestDriver.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\StockTestDriver.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\StockTestDriver.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\StopWatch.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\StopWatch.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\SwingTest.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\SwingTest.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\TestDataGenerator.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\TestDataGenerator.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\package-frame.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\package-frame.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\package-summary.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\package-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\package-tree.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\test\\package-tree.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\types\\ChartType.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\types\\ChartType.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\types\\IntType.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\types\\IntType.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\types\\PieLabelType.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\types\\PieLabelType.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\types\\StockChartDataType.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\types\\StockChartDataType.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\types\\Type.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\types\\Type.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\types\\package-frame.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\types\\package-frame.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\types\\package-summary.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\types\\package-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\types\\package-tree.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\org\\jCharts\\types\\package-tree.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\overview-frame.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\overview-frame.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\overview-summary.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\overview-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\overview-tree.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\overview-tree.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\package-list",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\packages.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\packages.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\serialized-form.html",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\serialized-form.html"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\javadocs\\stylesheet.css",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\javadocs\\stylesheet.css"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\lib\\batik-awt-util.jar",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\lib\\batik-awt-util.jar"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\lib\\batik-dom.jar",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\lib\\batik-dom.jar"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\lib\\batik-svggen.jar",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\lib\\batik-svggen.jar"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\lib\\batik-util.jar",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\lib\\batik-util.jar"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\lib\\batik-xml.jar",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\lib\\batik-xml.jar"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\Chart.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\Chart.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\Legend.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\Legend.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\AreaChart.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\AreaChart.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\AxisChart.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\AxisChart.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\BarChart.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\BarChart.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\ClusteredBarChart.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\ClusteredBarChart.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\LineChart.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\LineChart.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\PointChart.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\PointChart.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\ScatterPlotAxisChart.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\ScatterPlotAxisChart.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\ScatterPlotChart.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\ScatterPlotChart.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\StackedAreaChart.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\StackedAreaChart.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\StackedBarChart.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\StackedBarChart.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\StockChart.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\StockChart.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\axis\\Axis.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\axis\\Axis.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\axis\\DataAxis.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\axis\\DataAxis.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\axis\\LabelAxis.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\axis\\LabelAxis.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\axis\\XAxis.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\axis\\XAxis.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\axis\\YAxis.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\axis\\YAxis.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\axis\\scale\\AutomaticScaleCalculator.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\axis\\scale\\AutomaticScaleCalculator.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\axis\\scale\\ChartScale.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\axis\\scale\\ChartScale.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\axis\\scale\\ScaleCalculator.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\axis\\scale\\ScaleCalculator.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\axis\\scale\\UserDefinedScaleCalculator.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\axis\\scale\\UserDefinedScaleCalculator.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\AxisValueRenderEvent.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\AxisValueRenderEvent.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\PostAxisValueRenderListener.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\PostAxisValueRenderListener.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\PreAxisValueRenderListener.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\PreAxisValueRenderListener.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\renderers\\BackgroundRenderer.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\renderers\\BackgroundRenderer.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\renderers\\ValueLabelPosition.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\renderers\\ValueLabelPosition.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\renderers\\ValueLabelRenderer.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\axisChart\\customRenderers\\axisValue\\renderers\\ValueLabelRenderer.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\AxisChartDataSet.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\AxisChartDataSet.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\AxisDataSeries.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\AxisDataSeries.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\ChartDataException.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\ChartDataException.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\DataSeries.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\DataSeries.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\DataSet.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\DataSet.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\PieChartDataSet.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\PieChartDataSet.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\ScatterPlotDataSeries.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\ScatterPlotDataSeries.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\ScatterPlotDataSet.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\ScatterPlotDataSet.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\StockChartDataSet.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\StockChartDataSet.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IAxisChartDataSet.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IAxisChartDataSet.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IAxisDataSeries.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IAxisDataSeries.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IAxisPlotDataSet.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IAxisPlotDataSet.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IData.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IData.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IDataSeries.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IDataSeries.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IDataSet.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IDataSet.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IPieChartDataSet.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IPieChartDataSet.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IScatterPlotDataSeries.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IScatterPlotDataSeries.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IScatterPlotDataSet.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IScatterPlotDataSet.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IStockChartDataSet.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\interfaces\\IStockChartDataSet.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\processors\\AxisChartDataProcessor.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\processors\\AxisChartDataProcessor.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\processors\\NonStackedDataProcessor.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\processors\\NonStackedDataProcessor.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\processors\\PieChartDataProcessor.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\processors\\PieChartDataProcessor.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\processors\\ScatterPlotDataProcessor.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\processors\\ScatterPlotDataProcessor.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\processors\\StackedDataProcessor.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\processors\\StackedDataProcessor.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\processors\\StockDataProcessor.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\processors\\StockDataProcessor.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\processors\\TextProcessor.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartData\\processors\\TextProcessor.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartText\\BarValueGroup.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartText\\BarValueGroup.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartText\\NumericTagGroup.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartText\\NumericTagGroup.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartText\\TextTag.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartText\\TextTag.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartText\\TextTagGroup.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\chartText\\TextTagGroup.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\encoders\\BinaryEncoderUtil.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\encoders\\BinaryEncoderUtil.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\encoders\\JPEGEncoder.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\encoders\\JPEGEncoder.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\encoders\\JPEGEncoder13.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\encoders\\JPEGEncoder13.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\encoders\\PNGEncoder.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\encoders\\PNGEncoder.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\encoders\\SVGEncoder.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\encoders\\SVGEncoder.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\encoders\\ServletEncoderHelper.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\encoders\\ServletEncoderHelper.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\imageMap\\AreaShape.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\imageMap\\AreaShape.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\imageMap\\CircleMapArea.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\imageMap\\CircleMapArea.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\imageMap\\ImageMap.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\imageMap\\ImageMap.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\imageMap\\ImageMapArea.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\imageMap\\ImageMapArea.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\imageMap\\ImageMapNotSupportedException.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\imageMap\\ImageMapNotSupportedException.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\imageMap\\PolyMapArea.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\imageMap\\PolyMapArea.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\imageMap\\RectMapArea.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\imageMap\\RectMapArea.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\nonAxisChart\\PieChart2D.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\nonAxisChart\\PieChart2D.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\AreaChartProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\AreaChartProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\AreaProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\AreaProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\AxisChartTypeProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\AxisChartTypeProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\AxisProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\AxisProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\AxisTypeProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\AxisTypeProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\BarChartProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\BarChartProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\ChartProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\ChartProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\ChartTypeProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\ChartTypeProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\ClusteredBarChartProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\ClusteredBarChartProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\DataAxisProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\DataAxisProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\LabelAxisProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\LabelAxisProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\LegendAreaProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\LegendAreaProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\LegendProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\LegendProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\LineChartProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\LineChartProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\PieChart2DProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\PieChart2DProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\PointChartProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\PointChartProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\Properties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\Properties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\PropertyException.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\PropertyException.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\ScatterPlotProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\ScatterPlotProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\StackedAreaChartProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\StackedAreaChartProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\StackedBarChartProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\StackedBarChartProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\StockChartProperties.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\StockChartProperties.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\util\\ChartFont.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\util\\ChartFont.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\util\\ChartItem.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\util\\ChartItem.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\util\\ChartStroke.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\properties\\util\\ChartStroke.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\AreaTestDriver.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\AreaTestDriver.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\AxisChartTestBase.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\AxisChartTestBase.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\BarTestDriver.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\BarTestDriver.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\ChartTestDriver.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\ChartTestDriver.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\ClusteredBarTestDriver.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\ClusteredBarTestDriver.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\ComboTestDriver.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\ComboTestDriver.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\HTMLChartTestable.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\HTMLChartTestable.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\HTMLGenerator.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\HTMLGenerator.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\HTMLTestable.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\HTMLTestable.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\LineTestDriver.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\LineTestDriver.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\PieTestDriver.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\PieTestDriver.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\PointTestDriver.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\PointTestDriver.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\ScatterChartTestBase.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\ScatterChartTestBase.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\ScatterPlotTestDriver.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\ScatterPlotTestDriver.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\StackedAreaTestDriver.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\StackedAreaTestDriver.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\StackedBarTestDriver.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\StackedBarTestDriver.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\StockTestDriver.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\StockTestDriver.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\StopWatch.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\StopWatch.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\SwingTest.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\SwingTest.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\TestDataGenerator.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\test\\TestDataGenerator.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\types\\ChartType.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\types\\ChartType.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\types\\IntType.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\types\\IntType.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\types\\PieLabelType.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\types\\PieLabelType.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\types\\StockChartDataType.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\types\\StockChartDataType.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\jCharts-0.7.5\\src\\org\\jCharts\\types\\Type.java",
+      "PackagePath": "staticwebassets\\js\\jCharts-0.7.5\\src\\org\\jCharts\\types\\Type.java"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\minom\\workspace\\dotnet\\AplicacionEstadistica\\AplicacionEstadistica\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AplicacionEstadistica.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AplicacionEstadistica.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AplicacionEstadistica.props",
+      "PackagePath": "build\\AplicacionEstadistica.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AplicacionEstadistica.props",
+      "PackagePath": "buildMultiTargeting\\AplicacionEstadistica.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AplicacionEstadistica.props",
+      "PackagePath": "buildTransitive\\AplicacionEstadistica.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
